@@ -1,6 +1,6 @@
 # Tamsirat Aleiz React Version
 
-এই প্রজেক্টটি `m.html` ফাইল থেকে React.js/Vite প্রজেক্টে আলাদা আলাদা component, hook, util, data এবং CSS ফাইলে রূপান্তর করা হয়েছে।
+এই প্রজেক্টটি `aleiz.com/index` ফাইল থেকে React.js/Vite প্রজেক্টে আলাদা আলাদা component, hook, util, data এবং CSS ফাইলে রূপান্তর করা হয়েছে।
 
 ## চালানোর নিয়ম
 
